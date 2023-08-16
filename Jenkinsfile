@@ -1,4 +1,4 @@
-def branch = "staging"
+def branch = "production"
 def repo = "git@github.com:Ariifprastiyo/Fe-DeweTour.git"
 def cred = "dumbmerch"
 def dir = "~/DeweTour-Fe"
